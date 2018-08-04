@@ -1,0 +1,10 @@
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\bin\Debug\netcoreapp2.0\ACAutomotiveEPAS.deps.json
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\bin\Debug\netcoreapp2.0\ACAutomotiveEPAS.runtimeconfig.json
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\bin\Debug\netcoreapp2.0\ACAutomotiveEPAS.runtimeconfig.dev.json
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\bin\Debug\netcoreapp2.0\ACAutomotiveEPAS.dll
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\bin\Debug\netcoreapp2.0\ACAutomotiveEPAS.pdb
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\obj\Debug\netcoreapp2.0\ACAutomotiveEPAS.csproj.CoreCompileInputs.cache
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\obj\Debug\netcoreapp2.0\ACAutomotiveEPAS.AssemblyInfoInputs.cache
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\obj\Debug\netcoreapp2.0\ACAutomotiveEPAS.AssemblyInfo.cs
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\obj\Debug\netcoreapp2.0\ACAutomotiveEPAS.dll
+D:\Projects\ACAutomotiveEPAS\trunk\ACAutomotiveEPAS\ACAutomotiveEPAS\obj\Debug\netcoreapp2.0\ACAutomotiveEPAS.pdb
